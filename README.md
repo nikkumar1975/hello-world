@@ -1,2 +1,3 @@
 # hello-world
-hello to GIT world
+HELLO to GIT world
+Just trying out.
